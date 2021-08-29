@@ -1,0 +1,10 @@
+#Variables are in alphabetical order
+aws_region        = "us-east-2"
+aws_avail_zone    = "us-east-2a"
+aws_access_key    = "ACCESS_KEY"
+aws_secret_key    = "SECRET_KEY"
+env_prefix        = "deepak"
+instance_type     = "t2.micro"
+my_ip             = "178.191.165.151/32"
+subnet_cidr_block = "10.0.10.0/24"
+vpc_cidr_block    = "10.0.0.0/16"
